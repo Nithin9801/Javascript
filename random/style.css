@@ -1,0 +1,13 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+#rollbutton{
+    font-size: 3em;
+    padding: 5px 10px;
+}
+
+.labels{
+    font-size: large;
+}
