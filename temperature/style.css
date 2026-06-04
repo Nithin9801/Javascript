@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+
+form{
+    background-color: azure;
+    text-align: center;
+    max-width: 384px;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: 25px 5px 4px rgb(0, 0, 0); 
+}
+
